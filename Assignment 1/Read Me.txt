@@ -1,0 +1,10 @@
+Providing Some additional json file
+- DistintWordList.json
+- DocumentRecords.json
+- MergeList.json
+
+If you will run with these file No time will be consumed on Stemming and building Indexes.
+You can delete them and then run, about 2-5 min will take to build these file.
+These files contain helping information like stemp words and indexes etc.
+
+Thanks.

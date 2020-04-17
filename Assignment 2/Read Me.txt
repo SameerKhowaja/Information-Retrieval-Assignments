@@ -1,0 +1,12 @@
+Providing Some additional json file for Saving Time of execution
+- Dictonary_DF.json
+- Dictonary_IDF.json
+- Dictonary_TF_IDF.json
+- Document_Dictonary.json
+- Lemmatizatized_Words.json
+
+If you will run with these file Less time will be consumed on Pre-Processing and Building Dictionaries.
+You can delete them and then run, about 2-5 min (Depends on processor) will take to re-build these file.
+These files contain helping information like lemmatized words and dictionary indexes and vectors etc.
+
+Thanks.

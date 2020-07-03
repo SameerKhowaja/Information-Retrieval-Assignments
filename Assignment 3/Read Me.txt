@@ -1,0 +1,3 @@
+Must Read "Read Me.txt" in both the folders
+- k-mean
+- knn

@@ -1,0 +1,11 @@
+Provided 2 Python File and 1 text File
+- k-mean.py
+- Preprocessing.py
+- Stopword-List.txt
+
+When you will run Preprocessing.py you will get 3 New Text Files
+- Tokens.txt
+- idf_list.txt
+- tf_idf_vectors_list.txt
+
+After you can run k-mean.py file for getting Purity of dataset.

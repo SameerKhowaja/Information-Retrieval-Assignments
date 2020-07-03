@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c3b1d2f-49fa-4e96-95e1-03842db6b00b" name="Default Changelist" comment="" />
+    <list default="true" id="7c3b1d2f-49fa-4e96-95e1-03842db6b00b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Assignment 1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,14 +17,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YXUDAO16UPL1aBWM8VXIkbESzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment 2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -33,7 +39,28 @@
       <recent name="D:\UNIVERSITY\Semester 6\IR\Assignment 1\Trump Speechs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Question2 - Copy">
+  <component name="RunManager" selected="Python.A1_Code">
+    <configuration name="A1_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A1_Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="CodeFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,34 +145,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Assignment 1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A1_Code" />
         <item itemvalue="Python.Question2 - Copy" />
         <item itemvalue="Python.Question1" />
         <item itemvalue="Python.CodeFile" />
         <item itemvalue="Python.extra" />
-        <item itemvalue="Python.file" />
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +177,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="92" y="92" width="1096" height="496" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1583686687790" />
-    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1585322094477">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587127171849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587127171849" />
+    <state width="1345" height="177" key="GridCell.Tab.0.bottom" timestamp="1587127172865">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585322094477" />
-    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1585322094477">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587127172865" />
+    <state width="1345" height="177" key="GridCell.Tab.0.center" timestamp="1587127172865">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585322094477" />
-    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1585322094477">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1345" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587127172865" />
+    <state width="1345" height="177" key="GridCell.Tab.0.left" timestamp="1587127172865">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585322094477" />
-    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1585322094477">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1345" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587127172865" />
+    <state width="1345" height="177" key="GridCell.Tab.0.right" timestamp="1587127172865">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585322094477" />
+    <state width="1345" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587127172865" />
     <state x="141" y="0" key="SettingsEditor" timestamp="1583088411611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

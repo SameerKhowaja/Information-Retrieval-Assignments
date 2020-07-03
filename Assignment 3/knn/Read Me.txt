@@ -1,0 +1,15 @@
+Provided 2 Python File and 1 text File
+- k-mean.py
+- Preprocessing.py
+- Stopword-List.txt
+
+When you will run Preprocessing.py you will get 3 New Text Files and 2 New Folders
+- Tokens.txt
+- idf_list.txt
+- tf_idf_vectors_list.txt
+
+Folder includes
+- testing
+- training_data
+
+After you can run KNN.py file. This file have some GUI and button you can use.
